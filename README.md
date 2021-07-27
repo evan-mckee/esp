@@ -1,7 +1,7 @@
 # esp
 Description of Evan Style Python with examples.
 
-My art teacher used to say that drawing was like writing your
+My highschool art teacher used to say that drawing was like writing your
 signature: If you do it long enough, not only do you get better,
 but you get a style that's all your own. When I started coding in
 Python, I did it like everyone else: One .py file, one class,
@@ -9,7 +9,7 @@ everything self-contained. I buried variables inside dicts of
 dicts that even I couldn't decipher. I made tools for co-workers
 that they never bothered using, because my code was unreadable.
 
-Lately, I've done things differently. I take all my input
+Recently, I've done things differently. I take all my input
 variables and all my data and put it in a .json file outside the
 code. Values in these files are updated during runtime. The
 principle advantages of decoupling files this way are thus:
@@ -28,7 +28,9 @@ more easily.
 4) Dynamic variables and functions are more manageable in nested
 dicts, but .json formatting ensures they are always readable.
 
-I've included three examples of programming using this method.
+There's no "one right way" to program, but the ESP
+method will make your code more accessible. I've included
+two examples of programming using this method.
 Each folder contains an EspApp and its associated .json file.
 The parent folder contains an example empty EspApp for
 experimentation.
@@ -40,4 +42,4 @@ esp_scrum_manager: See ESP resource management using a scrum
 board management system. Print scrum boards in console or
 on MS Excel.
 
-: tbd
+future_third_project: tbd
