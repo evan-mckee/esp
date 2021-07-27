@@ -1,0 +1,34 @@
+# Use this document to make quick updates outside of esp_scrum_manager.py.
+#
+# Key:
+# New Project
+# 	New Story
+# 		New Task
+# :Update Existing Project
+# 	:Update Existing Story
+# 		:Update Existing Task - Status
+# - T - TODO
+# - I - IN PROGRESS
+# - R - REVIEW
+# - B - BLOCKED
+# - C - COMPLETE
+#
+# Example:
+#
+# New Project 1  # This project and its children will be added
+# 	New Story  # This story will be added
+#		New Task 1 - T  # Task New Task 1 will be added with a status of TODO
+# 		New Task 2 - C  # Task New Task 1 will be added with a status of COMPLETE
+# :Existing Project  # This project will be updated.
+#	:Existing Story
+#		:Existing Task - B # Update status of existing task to BLOCKED
+#		New Task 3 - T # Add task
+#
+#
+# Note: Update will return the first matching substring of the resource text. If updating
+# a story, you don't have to write ":As an operator, I want..." you can just say
+# ":operator". Search is not case sensitive.
+
+New Project 1
+	New Story A
+		New Task i - T

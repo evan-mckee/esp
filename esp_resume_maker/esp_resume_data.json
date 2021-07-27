@@ -1,0 +1,91 @@
+{
+    "resume": [
+        "0|Name|Evan McKee",
+        "0|Spce| ",
+        "0|Text|XXX-867-5309",
+        "0|Text|email@gmail.com",
+        "0|Text|github.com/evan-mckee",
+        "0|Spce| ",
+        "0|Hdr0|Experience",
+        "0|Hdr1|Control Systems Engineer II, EN Engineering, Houston, TX (January 2020 - Present)",
+        "0|Bull|Designed and integrated front end HMI screens for industrial energy clients, meeting specifications and standards",
+        "0|Bull|Wrote a Python script converting PLC ladder logic into Cause & Effect documents, reducing development time by 80%",
+        "0|Bull|Coded the Glue App, an internal project creation tool which all company managers use to automate project startup tasks",
+        "0|Bull|Automated document generation, batch file conversion, and folder organization allowing team members to manage large (80k) PLC tag datasets without errors",
+        "0|Bull|Conducted beginner Python workshops, introducing 20-30 engineers to scripting shortcuts they incorporated into their daily tasks",
+        "0|Bull|Presented High Performance HMI standards to the company's business development unit, helping them convince clients that long-term profits are possible from simple graphic updates",
+        "0|Hdr1|Graduate Research Assistant, Oak Ridge National Laboratory, Oak Ridge, TN (May 2018 - December 2019)",
+        "0|Bull|Developed the state, action, and reward system for an AI-controlled HVAC unit, using deep reinforcement learning to realize a 30% reduction in homeowner energy cost",
+        "0|Bull|Wrote an automated testing program ranking 3 algorithm options so the 8-person postdoctorate team could advance the fastest learner",
+        "0|Bull|Conceived and validated the double setpoint action space used in the final build, outperforming existing models by 40%",
+        "0|Bull|Used dynamic programming to prove that the machine learning HVAC could minimize cooling costs even under a static price signal",
+        "0|Bull|Tested varying simulations and scenarios to show that a single learner could learn the thermal profile of multiple homes",
+        "0|Spce| ",
+        "0|Hdr0|Education",
+        "0|Hdr1|M.S. in Electrical Engineering, The University of Tennessee (2018 - 2019)",
+        "0|Bull|3.8/4.0 GPA",
+        "0|Bull|Thesis: Deep Reinforcement Learning for Real-Time Residential HVAC Control",
+        "0|Hdr1|B.S. in Electrical Engineering, The University of Tennessee (2015 - 2018)",
+        "0|Bull|Magna Cum Laude",
+        "0|Bull|3.7/4.0 GPA",
+        "0|Hdr1|B.B.A in Marketing, Lipscomb University, Nashville, TN (2006 - 2010)",
+        "0|Spce| ",
+        "0|Hdr0|Job Skills",
+        "0|Text|Python, Q-Learning, TensorFlow / Keras, Git / Subversion, Docker, MQTT, SQL, PLC Programming",
+        "0|Spce| ",        
+        "0|Hdr0|Self Taught Skills",
+        "0|Text|Supervised / Unsupervised Machine Learning, DevOps, Data Analysis, AWS"
+    ],
+    "formats": {
+        "Name": {
+            "Font": "Garamond",
+            "Size": 20,
+            "Bold": true,
+            "Special": "Small Caps"
+        },
+        "Spce": {
+            "Size": 4
+        },
+        "Text": {
+            "Font": "Times New Roman",
+            "Size": 10,
+            "Bold": false,
+            "Color": 0,
+            "Alignment": "Left",
+            "Bullets": false,
+            "Special": "",
+            "Underline": false
+        },
+        "Desc": {
+            "Alignment": "Center"
+        },
+        "Hdr0": {
+            "Size": 12,
+            "Bold": true,
+            "Underline": true
+        },
+        "Hdr1": {
+            "Size": 11,
+            "Bold": true
+        },
+        "Hdr2": {
+            "Bold": true
+        },
+        "Bull": {
+            "Bullets": true
+        }
+    },
+    "parameters": {
+        "cascade_indent": 0.3,
+        "vertical_spacing": 1,
+        "gap_spacing": 8,
+        "margins_tbl": [
+            0.75,
+            0.5,
+            1.0,
+            0.5
+        ],
+        "word_output": "Evan_McKee_ML_Resume_2021.docx",
+        "pdf_output": "Evan_McKee_ML_Resume_2021.pdf"
+    }
+}

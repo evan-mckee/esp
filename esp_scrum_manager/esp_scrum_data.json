@@ -1,0 +1,602 @@
+{
+    "excel_fmt": {
+        "BlockedColor": "ffddd5",
+        "ColumnWidth": "20",
+        "CompleteColor": "ccf1f8",
+        "GapHeight": "15",
+        "GapWidth": "3",
+        "Header": [
+            "Stories",
+            "To Do",
+            "In Progress",
+            "Review",
+            "Blocked",
+            "Complete"
+        ],
+        "HeaderFont": "Calibri",
+        "HeaderFontSize": "16",
+        "InProgressColor": "c1edc3",
+        "ReviewColor": "f1dff0",
+        "RowHeight": "80",
+        "StoriesColor": "fff2cc",
+        "StoriesWidth": "40",
+        "TextFontSize": "11",
+        "TitleFontSize": "22",
+        "ToDoColor": "ddebf7"
+    },
+    "log": [],
+    "project_paths": [
+        "projects.cbdC90",
+        "projects.2BTQye"
+    ],
+    "projects": {
+        "2BTQye": {
+            "storys": {
+                "FoCmo7": {
+                    "project": "2BTQye",
+                    "tasks": {},
+                    "text": "Backlog",
+                    "time_created": "2021_07_23_21_21_41",
+                    "type": "story"
+                },
+                "mED4SW": {
+                    "project": "2BTQye",
+                    "tasks": {
+                        "2r00SH": {
+                            "notes": "",
+                            "project": "2BTQye",
+                            "status": "Review",
+                            "story": "mED4SW",
+                            "text": "Replace R1401 Screen",
+                            "time_created": "2021_07_23_21_21_41",
+                            "type": "task"
+                        },
+                        "36KZdN": {
+                            "notes": "",
+                            "project": "2BTQye",
+                            "status": "In Progress",
+                            "story": "mED4SW",
+                            "text": "Create Replacement Navigation System",
+                            "time_created": "2021_07_23_21_21_41",
+                            "type": "task"
+                        },
+                        "jmA5Ga": {
+                            "notes": "",
+                            "project": "2BTQye",
+                            "status": "ToDo",
+                            "story": "mED4SW",
+                            "text": "Replace Util_300/CoolingTwr Screen",
+                            "time_created": "2021_07_23_21_21_41",
+                            "type": "task"
+                        }
+                    },
+                    "text": "As an operator, I want a functional and intuitive HMI for daily tasks.",
+                    "time_created": "2021_07_23_21_21_41",
+                    "type": "story"
+                },
+                "vICYoA": {
+                    "project": "2BTQye",
+                    "tasks": {
+                        "XkvMlr": {
+                            "notes": "",
+                            "project": "2BTQye",
+                            "status": "Review",
+                            "story": "vICYoA",
+                            "text": "Write Design Guide Document",
+                            "time_created": "2021_07_23_21_21_41",
+                            "type": "task"
+                        },
+                        "se17Yc": {
+                            "notes": "",
+                            "project": "2BTQye",
+                            "status": "Complete",
+                            "story": "vICYoA",
+                            "text": "Create HowTo Documentation",
+                            "time_created": "2021_07_23_21_21_41",
+                            "type": "task"
+                        }
+                    },
+                    "text": "As a SCADA manager, I want to make simple edits to the HMI to save time.",
+                    "time_created": "2021_07_23_21_21_41",
+                    "type": "story"
+                }
+            },
+            "text": "Client 2 - Chemical Processing Plant",
+            "time_created": "2021_07_23_21_21_41",
+            "type": "project"
+        },
+        "cbdC90": {
+            "storys": {
+                "4UB8ft": {
+                    "project": "cbdC90",
+                    "tasks": {
+                        "8uJVyU": {
+                            "notes": "",
+                            "project": "cbdC90",
+                            "status": "Complete",
+                            "story": "4UB8ft",
+                            "text": "Upgrade Tank U3 PanelView",
+                            "time_created": "2021_07_23_21_21_41",
+                            "type": "task"
+                        },
+                        "FzAv9a": {
+                            "notes": "",
+                            "project": "cbdC90",
+                            "status": "Complete",
+                            "story": "4UB8ft",
+                            "text": "Push AsFound",
+                            "time_created": "2021_07_23_21_21_41",
+                            "type": "task"
+                        },
+                        "RfIEme": {
+                            "notes": "",
+                            "project": "cbdC90",
+                            "status": "In Progress",
+                            "story": "4UB8ft",
+                            "text": "Commission Tank U4",
+                            "time_created": "2021_07_23_21_21_41",
+                            "type": "task"
+                        },
+                        "X129Vo": {
+                            "notes": "",
+                            "project": "cbdC90",
+                            "status": "Complete",
+                            "story": "4UB8ft",
+                            "text": "Program Tank U4 PLC",
+                            "time_created": "2021_07_23_21_21_41",
+                            "type": "task"
+                        },
+                        "alE8XY": {
+                            "notes": "",
+                            "project": "cbdC90",
+                            "status": "Blocked",
+                            "story": "4UB8ft",
+                            "text": "Display HMD temperature readings in Ignition",
+                            "time_created": "2021_07_23_21_21_41",
+                            "type": "task"
+                        },
+                        "goxy0w": {
+                            "notes": "",
+                            "project": "cbdC90",
+                            "status": "ToDo",
+                            "story": "4UB8ft",
+                            "text": "Push AsLeft",
+                            "time_created": "2021_07_23_21_21_41",
+                            "type": "task"
+                        },
+                        "sYHLCT": {
+                            "notes": "",
+                            "project": "cbdC90",
+                            "status": "ToDo",
+                            "story": "4UB8ft",
+                            "text": "Commission Tank U6",
+                            "time_created": "2021_07_23_21_21_41",
+                            "type": "task"
+                        }
+                    },
+                    "text": "As a plant operator, I want a reliable, simple, and functional HMI to manage ship, truck, and rail orders.",
+                    "time_created": "2021_07_23_21_21_41",
+                    "type": "story"
+                },
+                "5O3KB1": {
+                    "project": "cbdC90",
+                    "tasks": {},
+                    "text": "Backlog",
+                    "time_created": "2021_07_23_21_21_41",
+                    "type": "story"
+                },
+                "H6qTJg": {
+                    "project": "cbdC90",
+                    "tasks": {
+                        "rOodS0": {
+                            "notes": "",
+                            "project": "cbdC90",
+                            "status": "Review",
+                            "story": "H6qTJg",
+                            "text": "Create gap analysis diagram",
+                            "time_created": "2021_07_23_21_21_41",
+                            "type": "task"
+                        },
+                        "uR8FDB": {
+                            "notes": "",
+                            "project": "cbdC90",
+                            "status": "In Progress",
+                            "story": "H6qTJg",
+                            "text": "Coordinate with IT on TAS gap analysis",
+                            "time_created": "2021_07_23_21_21_41",
+                            "type": "task"
+                        }
+                    },
+                    "text": "As a plant manager, I need a consolidated and simplified SCADA system that is replaced piecewise without interrupting production to save money.",
+                    "time_created": "2021_07_23_21_21_41",
+                    "type": "story"
+                },
+                "oGLlpo": {
+                    "project": "cbdC90",
+                    "tasks": {
+                        "LTwruh": {
+                            "notes": "",
+                            "project": "cbdC90",
+                            "status": "ToDo",
+                            "story": "oGLlpo",
+                            "text": "Set up MQTT Brokers",
+                            "time_created": "2021_07_23_21_21_41",
+                            "type": "task"
+                        },
+                        "LVNQTW": {
+                            "notes": "",
+                            "project": "cbdC90",
+                            "status": "In Progress",
+                            "story": "oGLlpo",
+                            "text": "License remaining Ignition machines",
+                            "time_created": "2021_07_23_21_21_41",
+                            "type": "task"
+                        },
+                        "Q9meCk": {
+                            "notes": "",
+                            "project": "cbdC90",
+                            "status": "In Progress",
+                            "story": "oGLlpo",
+                            "text": "Update architecture diagrams to reflect progress",
+                            "time_created": "2021_07_23_21_21_41",
+                            "type": "task"
+                        },
+                        "qZgsg8": {
+                            "notes": "",
+                            "project": "cbdC90",
+                            "status": "Complete",
+                            "story": "oGLlpo",
+                            "text": "Set up Ignition on VMs",
+                            "time_created": "2021_07_23_21_21_41",
+                            "type": "task"
+                        }
+                    },
+                    "text": "As an HMI Developer, I need protected DEV, TEST, and STG environments to reduce impact and risk.",
+                    "time_created": "2021_07_23_21_21_41",
+                    "type": "story"
+                }
+            },
+            "text": "Client 1 - Chemical Storage Facility",
+            "time_created": "2021_07_23_21_21_41",
+            "type": "project"
+        }
+    },
+    "resources": [
+        "rOodS0",
+        "uR8FDB",
+        "H6qTJg",
+        "LTwruh",
+        "LVNQTW",
+        "Q9meCk",
+        "qZgsg8",
+        "oGLlpo",
+        "goxy0w",
+        "FzAv9a",
+        "alE8XY",
+        "RfIEme",
+        "8uJVyU",
+        "sYHLCT",
+        "X129Vo",
+        "4UB8ft",
+        "5O3KB1",
+        "cbdC90",
+        "se17Yc",
+        "XkvMlr",
+        "vICYoA",
+        "e2Wg00",
+        "USFGvv",
+        "MyFK70",
+        "jmA5Ga",
+        "aL41G0",
+        "oLePue",
+        "TV3UHR",
+        "YXSuGD",
+        "8HK4c7",
+        "2r00SH",
+        "36KZdN",
+        "mED4SW",
+        "FoCmo7",
+        "2BTQye"
+    ],
+    "storys": [
+        "projects.cbdC90.storys.H6qTJg",
+        "projects.cbdC90.storys.oGLlpo",
+        "projects.cbdC90.storys.4UB8ft",
+        "projects.cbdC90.storys.5O3KB1",
+        "projects.2BTQye.storys.vICYoA",
+        "projects.2BTQye.storys.mED4SW",
+        "projects.2BTQye.storys.FoCmo7"
+    ],
+    "tasks": [
+        "projects.cbdC90.storys.H6qTJg.tasks.rOodS0",
+        "projects.cbdC90.storys.H6qTJg.tasks.uR8FDB",
+        "projects.cbdC90.storys.oGLlpo.tasks.LTwruh",
+        "projects.cbdC90.storys.oGLlpo.tasks.LVNQTW",
+        "projects.cbdC90.storys.oGLlpo.tasks.Q9meCk",
+        "projects.cbdC90.storys.oGLlpo.tasks.qZgsg8",
+        "projects.cbdC90.storys.4UB8ft.tasks.goxy0w",
+        "projects.cbdC90.storys.4UB8ft.tasks.FzAv9a",
+        "projects.cbdC90.storys.4UB8ft.tasks.alE8XY",
+        "projects.cbdC90.storys.4UB8ft.tasks.RfIEme",
+        "projects.cbdC90.storys.4UB8ft.tasks.8uJVyU",
+        "projects.cbdC90.storys.4UB8ft.tasks.sYHLCT",
+        "projects.cbdC90.storys.4UB8ft.tasks.X129Vo",
+        "projects.2BTQye.storys.vICYoA.tasks.se17Yc",
+        "projects.2BTQye.storys.vICYoA.tasks.XkvMlr",
+        "projects.2BTQye.storys.mED4SW.tasks.e2Wg00",
+        "projects.2BTQye.storys.mED4SW.tasks.USFGvv",
+        "projects.2BTQye.storys.mED4SW.tasks.MyFK70",
+        "projects.2BTQye.storys.mED4SW.tasks.jmA5Ga",
+        "projects.2BTQye.storys.mED4SW.tasks.aL41G0",
+        "projects.2BTQye.storys.mED4SW.tasks.oLePue",
+        "projects.2BTQye.storys.mED4SW.tasks.TV3UHR",
+        "projects.2BTQye.storys.mED4SW.tasks.YXSuGD",
+        "projects.2BTQye.storys.mED4SW.tasks.8HK4c7",
+        "projects.2BTQye.storys.mED4SW.tasks.2r00SH",
+        "projects.2BTQye.storys.mED4SW.tasks.36KZdN"
+    ],
+    "windows": {
+        "add_project": {
+            "choice_type": "input_chain",
+            "choices": [
+                [
+                    "Project title?",
+                    "input_text"
+                ]
+            ],
+            "function": "add_project",
+            "next_window": "home",
+            "prompt": "Add project:",
+            "prompt_type": "static",
+            "type": "window"
+        },
+        "add_resource": {
+            "choice_type": "static_numeric",
+            "choices": [
+                [
+                    "Project",
+                    "",
+                    "add_project,home"
+                ],
+                [
+                    "Story",
+                    "",
+                    "which_project,add_story,home"
+                ],
+                [
+                    "Task",
+                    "",
+                    "which_project,which_story,add_task,home"
+                ]
+            ],
+            "prompt": "Add which resource?",
+            "prompt_type": "static",
+            "type": "window"
+        },
+        "add_story": {
+            "choice_type": "input_chain",
+            "choices": [
+                [
+                    "Story text?",
+                    "input_text"
+                ]
+            ],
+            "function": "add_story",
+            "next_window": "home",
+            "prompt": "Add story:",
+            "prompt_type": "static",
+            "type": "window"
+        },
+        "add_task": {
+            "choice_type": "input_chain",
+            "choices": [
+                [
+                    "Task text?",
+                    "input_text"
+                ]
+            ],
+            "function": "add_task",
+            "next_window": "home",
+            "prompt": "Add task:",
+            "prompt_type": "static",
+            "type": "window"
+        },
+        "del_project": {
+            "choice_type": "static_numeric",
+            "choices": [
+                [
+                    "Yes",
+                    "del_project",
+                    "home"
+                ],
+                [
+                    "No",
+                    "",
+                    "home"
+                ]
+            ],
+            "prompt": "Really delete Project <{1}>?",
+            "prompt_type": "dynamic",
+            "replacements": {
+                "1": "@active_project.text"
+            },
+            "type": "window"
+        },
+        "del_resource": {
+            "choice_type": "static_numeric",
+            "choices": [
+                [
+                    "Project",
+                    "",
+                    "which_project,del_project,home"
+                ],
+                [
+                    "Story",
+                    "",
+                    "which_project,which_story,del_story,home"
+                ],
+                [
+                    "Task",
+                    "",
+                    "which_project,which_story,which_task,del_task,home"
+                ]
+            ],
+            "prompt": "Remove which resource?",
+            "prompt_type": "static",
+            "type": "window"
+        },
+        "del_story": {
+            "choice_type": "static_numeric",
+            "choices": [
+                [
+                    "Yes",
+                    "del_story",
+                    "home"
+                ],
+                [
+                    "No",
+                    "",
+                    "home"
+                ]
+            ],
+            "prompt": "Really delete Story <{1}>?",
+            "prompt_type": "dynamic",
+            "replacements": {
+                "1": "@active_story.text"
+            },
+            "type": "window"
+        },
+        "del_task": {
+            "choice_type": "static_numeric",
+            "choices": [
+                [
+                    "Yes",
+                    "del_task",
+                    "home"
+                ],
+                [
+                    "No",
+                    "",
+                    "home"
+                ]
+            ],
+            "prompt": "Really delete Task <{1}>?",
+            "prompt_type": "dynamic",
+            "replacements": {
+                "1": "@active_task.text"
+            },
+            "type": "window"
+        },
+        "home": {
+            "choice_type": "static_numeric",
+            "choices": [
+                [
+                    "Print Tree",
+                    "print_tree",
+                    "home"
+                ],
+                [
+                    "Print Scrum to Console",
+                    "scrum_projects",
+                    "home"
+                ],
+                [
+                    "Print Scrum to Excel",
+                    "print_to_excel",
+                    "home"
+                ],
+                [
+                    "Batch read from text file",
+                    "read_from_text",
+                    "home"
+                ],
+                [
+                    "Add Resource",
+                    "",
+                    "add_resource"
+                ],
+                [
+                    "Update Resource",
+                    "",
+                    "update_resource"
+                ],
+                [
+                    "Remove Resource",
+                    "",
+                    "del_resource"
+                ]
+            ],
+            "prompt": "Scrum Manager 1.1",
+            "prompt_type": "static",
+            "type": "window"
+        },
+        "select_attribute": {
+            "choice_type": "dynamic_numeric",
+            "filter": "",
+            "labels": "",
+            "prompt": "Which attribute?",
+            "prompt_type": "static",
+            "source": "runtime.active_attributes",
+            "type": "window",
+            "write_to": "selected_attribute"
+        },
+        "update_attribute": {
+            "choice_type": "input_chain",
+            "choices": [
+                [
+                    "New value?",
+                    "input_text"
+                ]
+            ],
+            "function": "update_attribute",
+            "next_window": "home",
+            "prompt": "Update Attribute:",
+            "prompt_type": "static",
+            "type": "window"
+        },
+        "update_resource": {
+            "choice_type": "dynamic_paths",
+            "filters": [
+                "project_paths",
+                "storys",
+                "tasks"
+            ],
+            "function": "set_active_attributes",
+            "next_window": "select_attribute",
+            "prompt": "Which resource?",
+            "prompt_type": "static",
+            "type": "window",
+            "write_to": "active_resource"
+        },
+        "which_project": {
+            "choice_type": "dynamic_numeric",
+            "filter": "",
+            "labels": "text",
+            "prompt": "Which project?",
+            "prompt_type": "static",
+            "source": "project_paths",
+            "type": "window",
+            "write_to": "active_project"
+        },
+        "which_story": {
+            "choice_type": "dynamic_numeric",
+            "filter": "active_project",
+            "labels": "text",
+            "prompt": "Which story?",
+            "prompt_type": "static",
+            "source": "storys",
+            "type": "window",
+            "write_to": "active_story"
+        },
+        "which_task": {
+            "choice_type": "dynamic_numeric",
+            "filter": "active_story",
+            "labels": "text",
+            "prompt": "Which task?",
+            "prompt_type": "static",
+            "source": "tasks",
+            "type": "window",
+            "write_to": "active_task"
+        }
+    }
+}
